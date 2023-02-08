@@ -1,2 +1,2 @@
 #!/bin/bash
-contents list
+echo "ls"
